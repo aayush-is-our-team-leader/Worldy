@@ -1,6 +1,6 @@
-# 📝 Worldy: A Java-Based Wordle Clone
+# 📝 Wordly: A Java-Based Wordle Clone
 
-**Worldy** is a lightweight word-guessing game built with Java. Inspired by the popular game Wordle, it challenges players to use logic and vocabulary to uncover a hidden 5-letter word within a limited number of attempts.
+**Wordly** is a lightweight word-guessing game built with Java. Inspired by the popular game Wordle, it challenges players to use logic and vocabulary to uncover a hidden 5-letter word within a limited number of attempts.
 
 ---
 
