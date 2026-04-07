@@ -35,4 +35,4 @@
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Worldy.git](https://github.com/YOUR_USERNAME/Worldy.git)
+   git clone [https://github.com/YOUR_USERNAME/Wordly.git](https://github.com/YOUR_USERNAME/Wordly.git)
